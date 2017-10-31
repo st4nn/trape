@@ -1,7 +1,7 @@
 trape (open source)
 ========
 
-People tracker on the Internet: Learn to track the world, to avoid being traced.
+People tracker on the Internet: Learn to track the world, to avoid being tracked.
 
 ---
 Trape is a recognition tool that allows you to **track people**, the information you can get is very detailed. We want to teach the world through this, as large Internet companies could monitor you, obtaining information beyond your IP.
@@ -22,7 +22,7 @@ Some benefits
 
 How to use it
 -------
- First unload the tool.
+ First download the tool.
 ```
 git clone https://github.com/boxug/trape.git
 cd trape
@@ -65,6 +65,8 @@ I invite you, if you use this tool helps to share, collaborate. Let's make the I
 
 -------------
 
+License
+-----------
 Copyright, 2017 by [boxug](https://boxug.com) - First Your Security
 
--------------
+The content of this project itself is licensed under the <a href="http://creativecommons.org/licenses/by/3.0/us/deed.en_US">Creative Commons Attribution 3.0 license</a>, and the underlying source code used to format and display that content is licensed under the <a href="http://opensource.org/licenses/mit-license.php">MIT license</a>.
